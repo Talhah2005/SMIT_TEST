@@ -1,0 +1,43 @@
+*:focus{
+outline: none !important;
+box-shadow: none !important;
+}
+c1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+.fss1{
+    width: 500px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.fss2{
+    width: 500px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.fss3{
+    width: 500px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.fss4{
+    width: 500px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.l1{
+    text-decoration: none;
+}
